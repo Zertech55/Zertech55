@@ -1,4 +1,4 @@
-<h1>Hi, I'm Draydon, an <a href="https://www.linkedin.com/in/draydon-ratliff-51422b252/">Computer Enthusiast</a>☺</h1>
+<h1>Hi, I'm Draydon, an <a href="https://www.linkedin.com/in/draydon-ratliff-51422b252/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
