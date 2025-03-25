@@ -3,8 +3,6 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-
-  - [osTicket: Prerequisites and Installation](https://github.com/Zertech55/osTicket-Prerequisites-and-Installation/blob/main/README.md)
     
   - [osTicket: Post-Installation Configuration](https://github.com/Zertech55/Post-Install-Config/blob/main/README.md)
     
