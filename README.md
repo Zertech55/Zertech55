@@ -12,7 +12,7 @@
 
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Zertech55/Configure-ad/blob/main/README.md)
     
-  - [Managing Group Policy and Accounts](https://github.com/Zertech55/Azure-Network-Protocols/blob/main/README.md)
+  - [Administration using Group Policy and Active Directory](https://github.com/Zertech55/Azure-Network-Protocols/blob/main/README.md)
 
 <h2>🤳Connect with me:</h2>
 
